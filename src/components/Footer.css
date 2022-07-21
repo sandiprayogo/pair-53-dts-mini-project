@@ -1,0 +1,11 @@
+.footer p {
+  position: fixed;
+  z-index: 9999;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 10px;
+  display: flex;
+  background-color: skyblue;
+  justify-content: center;
+}
